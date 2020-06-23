@@ -1,7 +1,7 @@
-# proyecto_final_frontend_donoso
-repositorio de hitos para proyecto final frontend
+#  Proyecto Final Frontend
+Repositorio de hitos para proyecto final frontend
 
- # tv-maze
+# Pasos a seguir:
 
 ## Project setup
 ```
@@ -31,12 +31,15 @@ npm run test:e2e
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-1 - Descripción del proyecto:
+# Descripción del proyecto:
 
-1.1 - Descripción: "TE RECOMIENDO VER" es una web basada en la API: https://www.tvmaze.com/api que agrega información de programas de TV, "TE RECOMIENDO VER" es diseñada para el mundo cinéfilo y amantes de las series que no saben qué ver en su tiempo libre
+## Descripción: 
 
-1.2 - Formato:
-La web entrega información de programas de TV, Series y Peliculas y proporciona al usuario Cards con: 
+### "TE RECOMIENDO VER" es una web basada en la API: https://www.tvmaze.com/api que agrega información de programas de TV, "TE RECOMIENDO VER" es diseñada para el mundo cinéfilo y amantes de las series que no saben qué ver en su tiempo libre
+
+## Formato:
+
+### La web entrega información de programas de TV, Series y Peliculas y proporciona al usuario Cards con: 
 
 -Nombre 
 -Carátulas 
