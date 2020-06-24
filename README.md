@@ -1,98 +1,149 @@
-#  Proyecto Final Frontend
-Repositorio de hitos para proyecto final frontend
-___
-# Pasos a seguir:
+# Proyecto Final Frontend
 
-## Project setup
+## Repositorio de hitos para proyecto final frontend
+
+### Pasos a seguir:
+
+#### Project setup
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+#### Compiles and hot-reloads for development
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+#### Compiles and minifies for production
+
 ```
 npm run build
 ```
 
-### Run your unit tests
+#### Run your unit tests
+
 ```
 npm run test:unit
 ```
 
-### Run your end-to-end tests
+#### Run your end-to-end tests
+
 ```
 npm run test:e2e
 ```
 
-### Customize configuration
+#### Customize configuration
+
 See [Configuration Reference](https://cli.vuejs.org/config/).
-___
-# Descripción del proyecto:
 
-### Descripción: 
+---
 
-#### **TE RECOMIENDO VER** es una web basada en la [API TVMAZE] (https://www.tvmaze.com/api) "Ir_a_la_API" que agrega información de programas de TV, **TE RECOMIENDO VER** es diseñada para el mundo cinéfilo y amantes de las series que no saben qué ver en su tiempo libre
+## Descripción del proyecto
+
+![imagen](./public/favicon.ico)
+
+### Descripción:
+
+#### *TE RECOMIENDO VER* es una web basada en la *API TVMAZE* https://www.tvmaze.com/api que agrega información de programas de TV, *TE RECOMIENDO VER* es diseñada para el mundo cinéfilo y amantes de las series que no saben qué ver en su tiempo libre
+
+---
 
 ### Formato:
 
-#### La web entrega información de programas de TV, Series y Peliculas y proporciona al usuario Cards con: 
+#### La web entrega información de programas de *TV, Series y Peliculas* y proporciona al usuario Cards con:
 
-- Nombre 
-- Carátulas 
-- Sinopsis 
+- Nombre
+- Carátulas
+- Sinopsis
+
+---
 
 ### Filtros de busqueda:
-#### **Te recomiendo ver** permite buscar por filtros: 
+
+#### *TE RECOMIENDO VER* permite buscar por filtros:
 
 - Canal de TV
 - Temporadas
-- Personajes 
+- Personajes
+
+---
 
 ### Propósito de la aplicación:
-#### Difundir conocimiento cultural sobre Series y Peliculas, **TE RECOMIENDO VER** solo entrega información audiovisual y tiene como propósito ofrecer una amplia oferta de material y les permite crear su propia lista de series favoritas que posteriormente buscarán en otras plataformas y podrán disfrutar
+
+#### Difundir conocimiento cultural sobre Series y Peliculas, *TE RECOMIENDO VER*, sÓlo entrega información audiovisual y tiene como propósito ofrecer una amplia oferta de material y les permite crear su propia lista de series favoritas que posteriormente buscarán en otras plataformas y podrán disfrutar
+
+---
 
 ### Usuarios a los que apunta:
-#### Todo público, cinéfilos, fanáticos de series y descubridores de nuevas experiencias, con los servicios de **TE RECOMIENDO VER** puedes:
 
-- Conocer información de las Series que tod@s comentan
-- Descubrir programas de culto para agregar a tu lista
-- Conocer material poco difundido para ver en tu tiempo libre
+#### Todo público, cinéfilos, fanáticos de series y descubridores de nuevas experiencias, con los servicios de *TE RECOMIENDO VER* puedes:
 
-___
-# Guía de estilos:
+- Conocer información de las *Series que tod@s comentan*
+- Descubrir *Programas de culto* para agregar a tu lista
+- Conocer *Material poco difundido* para ver en tu tiempo libre
 
-### Tipografías utilizadas (google fonts):
+---
 
-#### Fonts:
+## Guía de estilos
 
-#### Titulos: Creepster Regular 400
+### Tipografías utilizadas
 
-[google fonts] (<link href="https://fonts.googleapis.com/css2?family=Creepster&display=swap" rel="stylesheet">) "Ir_a_la_fuente" 
+#### Titulos:
 
-#### CSS: 
+- Main Title: Creepster Regular 400
 
-font-family: 'Creepster', cursive;
+- Section I: Open Sans, Bold
 
-#### Hexadecimales:
+- Section II: Open Sans
 
+#### Tamaños:
 
-# Tamaño de texto: DEFINIR
+- Main Title: 40px
 
-# Font Awesome
+- Section I: 25px
 
-### Colores y elementos que los usarán:
+- Section II: 14px
 
-___
-# Guía de instalación del proyecto:
+#### CSS:
 
-### Requisitos necesarios: Webpack
+- Main Title: Google Fonts [Creepster Reference]("https://fonts.googleapis.com/css2?family=Creepster&display=swap").
 
-#### ¿Es necesario instalar dependencias extra dentro de un directorio?: (Cloud Functions)
+- Section I: Google Fonts [Creepster Reference]("https://fonts.googleapis.com/css2?family=Creepster&display=swap").
 
-# Rutas de acceso
+- Section II: Google Fonts [Creepster Reference]("https://fonts.googleapis.com/css2?family=Creepster&display=swap").
 
-### ruta donde sera encontrada la api
+#### Colors:
+
+- Nickel #707070
+
+- Rich Black #000f08
+
+- Ginder #b36b01
+
+- Sweet Brown #a4452c
+
+### Fonts:
+
+- Google Fonts
+
+### Icons:
+
+- Font Awesome
+
+---
+
+### Otros
+
+#### Requisitos necesarios: 
+
+- Webpack
+
+#### Dependencias extra dentro directorio: 
+
+- Cloud Functions
+
+#### Ruta acceso:
+
+- Definir
