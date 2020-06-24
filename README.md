@@ -1,5 +1,6 @@
 #  Proyecto Final Frontend
 Repositorio de hitos para proyecto final frontend
+___
 
 # Pasos a seguir:
 
@@ -30,6 +31,7 @@ npm run test:e2e
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+___
 
 # Descripción del proyecto:
 
@@ -62,6 +64,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - Descubrir programas de culto para agregar a tu lista
 - Conocer material poco difundido para ver en tu tiempo libre
 
+___
+
 # Guía de estilos:
 
 ### Tipografías utilizadas (google fonts):
@@ -85,7 +89,8 @@ font-family: 'Creepster', cursive;
 
 ### Colores y elementos que los usarán:
 
-   
+___
+
 # Guía de instalación del proyecto:
 
 ### Requisitos necesarios: Webpack

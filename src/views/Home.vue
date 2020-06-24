@@ -16,3 +16,11 @@ export default {
   }
 }
 </script>
+
+<style>
+   .home {
+     background: #a4452c
+   }
+</style>
+
+

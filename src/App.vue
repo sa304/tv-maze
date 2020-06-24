@@ -15,7 +15,6 @@
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  background: #000f08;
 }
 
 #nav {
@@ -33,10 +32,6 @@
 
 /* 
 Guia de estilos 
-
-
-
-
 
 ------section------
 titulos: 
