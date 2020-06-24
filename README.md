@@ -53,14 +53,14 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - Personajes 
 
 ### Propósito de la aplicación:
-#### Difundir conocimiento cultural sobre Series y Peliculas, "TE RECOMIENDO VER" solo entrega información audiovisual y tiene como propósito ofrecer una amplia oferta de material que los usuarios pueden ver posteriormente en otras plataformas, les permite crear su propia lista de series favoritas que posteriormente buscarán en otras plataformas y podrán disfrutar
+#### Difundir conocimiento cultural sobre Series y Peliculas, "TE RECOMIENDO VER" solo entrega información audiovisual y tiene como propósito ofrecer una amplia oferta de material y les permite crear su propia lista de series favoritas que posteriormente buscarán en otras plataformas y podrán disfrutar
 
 ### Usuarios a los que apunta:
 #### Todo público, cinéfilos, fanáticos de series y descubridores de nuevas experiencias, con los servicios de "TE RECOMIENDO VER" puedes:
 
-- Ver las Series que tod@s comentan
-- Descubrir programas de culto
-- Conocer material poco difundido.
+- Conocer información de las Series que tod@s comentan
+- Descubrir programas de culto para agregar a tu lista
+- Conocer material poco difundido para ver en tu tiempo libre
 
 # Guía de estilos:
 
@@ -81,6 +81,8 @@ font-family: 'Creepster', cursive;
 
 # Tamaño de texto: DEFINIR
 
+# Font Awesome
+
 ### Colores y elementos que los usarán:
 
    
@@ -89,8 +91,6 @@ font-family: 'Creepster', cursive;
 ### Requisitos necesarios: Webpack
 
 #### ¿Es necesario instalar dependencias extra dentro de un directorio?: (Cloud Functions)
-
-- Pasos de la instalación
 
 # Rutas de acceso
 
